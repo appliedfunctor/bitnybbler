@@ -1,0 +1,22 @@
+{
+  "name": "bitnybbler",
+  "version": "1.0.0",
+  "description": "Portfolio Site",
+  "main": "index.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aworton/bitnybbler.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Alexander Worton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aworton/bitnybbler/issues"
+  },
+  "homepage": "https://github.com/aworton/bitnybbler#readme"
+}
